@@ -23,3 +23,7 @@
 .section-midheading {
   font-size: 35px;
 }
+
+.fa-goodreads-g:before {
+  content: "\f3a9";
+}
